@@ -1,0 +1,10 @@
+{
+	"extends": [
+		"tslint-etc"
+	],
+	"rules": {
+		"no-var-requires": false,
+		"no-unused-variable": false,
+		"no-unused-declaration": true
+	}
+}
